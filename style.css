@@ -57,7 +57,7 @@ body {
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url('https://github.com/Sahil-Kumar7/html-portfolio/blob/main/Desktop%20Picture.png') no-repeat;
+    background: url('https://raw.githubusercontent.com/Sahil-Kumar7/html-portfolio/main/Desktop%20Picture.png') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
